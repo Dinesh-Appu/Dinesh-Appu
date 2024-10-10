@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi I'm Dinesh
+### Code I Know :
+ - Python 
+ - Gd Script
+ - Java
 
-<!--
-**Dinesh-Appu/Dinesh-Appu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Framework I Use :
+- PyQt5
+- Kivy
 
-Here are some ideas to get you started:
+#### Software I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<img height="50" width="50" src="https://user-images.githubusercontent.com/1646875/91680049-0b53b880-eb18-11ea-84f0-656e743e3a1c.png" />
+ ![Sublime]()
+ ![PyCode]()
+
+
+
+
+
