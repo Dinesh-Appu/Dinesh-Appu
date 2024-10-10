@@ -1,4 +1,9 @@
 # Hi I'm Dinesh
+
+### Currently Working on :
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo"/>
+
 ### Code I Know :
  - Python 
  - Gd Script
@@ -12,7 +17,7 @@
 
   
 <img height="50" width="50" src="https://user-images.githubusercontent.com/1646875/91680049-0b53b880-eb18-11ea-84f0-656e743e3a1c.png" />
- <img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fforum.sublimetext.com%2Ft%2Fa-file-icon-sublime-file-specific-icons-for-improved-visual-grepping%2F25874&psig=AOvVaw233cbINs96Jnz66KZ6SFj1&ust=1728638456611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjGwp2-g4kDFQAAAAAdAAAAABAE" />
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/sublime-text.png" alt="sublime-text"/>
  ![PyCode]()
 
 
