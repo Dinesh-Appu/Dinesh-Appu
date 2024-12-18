@@ -11,6 +11,7 @@
 #### Framework I Use :
 - PyQt5
 - Kivy
+- FastAPI
 
 #### Software I Use:
 
