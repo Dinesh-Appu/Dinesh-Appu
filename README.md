@@ -1,6 +1,6 @@
 # Hi I'm Dinesh
 
-### Currently Working on :
+### Currently Working Projects :
 [OpenNotify](https://github.com/Dinesh-Appu/OpenNotify) -> Push Notifiaction Server
 
 ### Code I Know :
