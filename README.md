@@ -4,7 +4,7 @@
 [OpenNotify](https://github.com/Dinesh-Appu/OpenNotify) -> Push Notifiaction Server
 
 ### My Main Programing Language:
-<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo.png" alt="external-rust-is-a-multi-paradigm-system-programming-language-logo-bold-tal-revivo"/>
 
 ### Code I Know :
  - Python 
@@ -13,8 +13,8 @@
 
 #### Framework I Use :
 - PyQt5
-- Kivy
 - FastAPI
+- Kivy
 
 #### Software I Use:
 
